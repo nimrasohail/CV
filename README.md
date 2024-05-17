@@ -1,4 +1,4 @@
-![image](https://github.com/nimrasohail/CV/assets/97934975/97668969-5c65-449d-b431-0014b605a341)# CV
+# CV
 Clip Based Modeling for Plant Trait Prediction with Ancillary Data
 PlantTraits2024, a challenge hosted on Kaggle, aims to predict six key plant traits (leaf area, growth height, specific leaf area, leaf nitrogen content, seed mass, stem specific density). from crowdsourced images and supplementary data. Understanding these traits is crucial for analyzing global patterns of plant biodiversity and ecosystem health. This research delves into the competition, exploring the dataset and the task of predicting the plant traits. We analyze approaches used by successful participants, focusing on the strengths of ensemble models that combine multiple learning techniques
 ![image](https://github.com/nimrasohail/CV/assets/97934975/12e6f0c7-19d4-4d30-8b7f-fd5a1611fe88)
